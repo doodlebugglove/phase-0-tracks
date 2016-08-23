@@ -1,11 +1,23 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-<link rel="stylesheet" href="positioning/stylesheet.css">
-</style>
-</head>
-<img src="css/positioning/glasses.png">
-<img src="css/positioning/hat.png">
-<img src="css/positioning/octopus.png">
-</html>
+.octopus {
+	position: center;
+ 	padding-top: 20px;
+  	padding-right: 30px;
+  	padding-bottom: 30px;
+  	padding-left: 30px;
+	}
+
+.hat {
+	position: center;
+ 	padding-top: 20px;
+  	padding-right: 30px;
+  	padding-bottom: 30px;
+  	padding-left: 30px;
+	}
+
+.glasses {
+	position: center;
+ 	padding-top: 20px;
+  	padding-right: 30px;
+  	padding-bottom: 30px;
+  	padding-left: 30px;
+	}
